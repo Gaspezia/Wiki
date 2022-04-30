@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: wiki.gaspezia.fr # Add your website address here
 branding:
   title: Project Name
   label: Docs
