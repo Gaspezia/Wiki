@@ -10,12 +10,16 @@ Tu pourras y retrouver un descriptif de toutes les **fonctionnalités du serveur
 
 **Bon jeu sur Gaspézia !**
 
+---
+
 # Informations:
 
 * [Règlement](reglement.md)
 * [Grade](grades.md)
 * [Communauté](communaute/index.md)
 * [Hosts / Parties Privées](hosts.md)
+
+---
 
 # Mode de Jeux:
 
@@ -26,3 +30,13 @@ Tu pourras y retrouver un descriptif de toutes les **fonctionnalités du serveur
 * [Blocs Musicaux](mode-de-jeux/blocs-musicaux)
 * [Survie](mode-de-jeux/survie)
 * [Créatif](mode-de-jeux/creatif)
+
+---
+
+# Nos liens:
+* **IP** : gaspezia.fr
+* **Site internet** : [https://gaspezia.fr](https://gaspezia.fr)
+* **Twitter** : [https://twitter.com/gaspezia](https://twitter.com/gaspezia)
+* **Discord** : [https://discord.gaspezia.fr](http://discord.gaspezia.fr)
+* **Instagram** : [https://instagram.com/gaspeziamc](https://www.instagram.com/gaspeziamc/)
+* **Musée** : [https://musee.gaspezia.fr](https://musee.gaspezia.fr/)
