@@ -1,7 +1,7 @@
 ---
-title: Parrainge
-order: 10
-icon: ":handshake:"
+title: Blocs Musicaux
+order: 80
+icon: ":notes:"
 ---
 
 Connais-tu le pingouin qui glisse le plus loin ?
