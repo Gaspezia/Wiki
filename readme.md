@@ -19,8 +19,10 @@ Tu pourras y retrouver un descriptif de toutes les **fonctionnalités du serveur
 
 # Mode de Jeux:
 
-* [LoupGarou](mode-de-jeux/loupgarou/)
-* [Moutrun](moutrun/index.md)
-* [Arena](arena/index.md)
-* [Bedwars](bedwars/index.md)
-* [Blocs Musicaux](blocs-musicaux/index.md)
+* [LoupGarou](mode-de-jeux/loupgarou)
+* [Moutrun](mode-de-jeux/moutrun)
+* [Arena](mode-de-jeux/arena)
+* [Bedwars](mode-de-jeux/bedwars)
+* [Blocs Musicaux](mode-de-jeux/blocs-musicaux)
+* [Survie](mode-de-jeux/survie)
+* [Créatif](mode-de-jeux/creatif)
