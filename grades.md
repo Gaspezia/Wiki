@@ -35,4 +35,21 @@ Voici les différentes grades que tu pourras retrouver sur Gaspézia :
 !!!
 Voici un petit tableau récapitulant les avantages par grade :
 !!!
-*insérer le tableau*
+
+| **Avantage**                                |           Gaspézien            |         <font color=#22D3EE> VIP         |
+|:--------------------------------------------|:------------------------------:|:----------------------------------------:|
+| Accès aux host - partie privées en illimité |               ❌                |                    ✅                     |
+| Accès aux fonctionnalités en Bêta           |               ❌                |                    ✅                     |
+| Accès quand le serveur est complet          |               ❌                |                    ✅                     |
+| Couleur de GG personnalisé                  |               ❌                |                    ✅                     |
+| Choix de l'heure sur le lobby               |               ❌                |                    ✅                     |
+| Annonce d'arrivée sur un lobby              |               ❌                |                    ✅                     |
+| Couleur de pseudo                           |   <font color=#999999> gris    | <font color=#22D3EE> **personnalisable** |
+| Nombre de double saut au lobby              |               1                |     <font color=#22D3EE>**illimité**     |
+| Couleur des messages                        |   <font color=#999999> gris    |      <font color=#22D3EE> **blanc**      |
+| Préfixe affiché                             | <font color=#999999> Gaspézien |       <font color=#22D3EE> **VIP**       |
+| Nombre d'amis                               |               20               |     <font color=#22D3EE>**illimité**     |
+
+!!!
+Vous pouvez acheter différents avantages **[ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)**
+
