@@ -2,6 +2,7 @@
 title: Grades
 order: 90
 icon: ":money_with_wings:"
+hidden: true
 ---
 
 !!!
@@ -51,5 +52,5 @@ Voici un petit tableau récapitulant les avantages par grade :
 | Nombre d'amis                               |               20               |     <font color=#22D3EE>**illimité**     |
 
 !!!
-Vous pouvez acheter différents avantages **[ici](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)**
+Bientôt disopnible sur notre boutique.
 
