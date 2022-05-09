@@ -1,7 +1,7 @@
 ---
-title: Parrainge
+title: Parrainage
 order: 10
 icon: ":handshake:"
 ---
 
-Connais-tu le pingouin qui glisse le plus loin ?
+Le parrainage sur Gaspézia permet de mettre de récompenser les joueurs qui
