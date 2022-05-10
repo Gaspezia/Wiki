@@ -19,26 +19,26 @@ l'autocomplétion (TAB).
 
 #### Voici la liste des commandes liées à la fonctionnalité des amis :
 
-<font color="cyan">/ami </font> <font color="#EAB308"> [ajouter | add] </font> <font color="84CC16"> [joueur] </font> 
-<font color="9CA3AF">: Permet d'envoyer une demande d'ami à un joueur. 
+<font color="cyan">/ami </font> <font color="#EAB308"> [ajouter | add] </font> <font color="84CC16"> [joueur] </font> : 
+Permet d'envoyer une demande d'ami à un joueur. 
 Si les deux joueurs s'ajouter mutuellement via cette commande alors
-ils n'auront pas à utilser la commande /friend accepte.</font>
+ils n'auront pas à utilser la commande /friend accepte.
 
 <font color="cyan">/ami </font> <font color="#EAB308"> [retirer | remove] </font> <font color="84CC16">[joueur]</font>
-<font color="9CA3AF"> : Permet de retirer un joueur de sa liste d'ami. 
-Les deux joueurs n'auront plus l'autre dans la liste d'amis.</font>
+: Permet de retirer un joueur de sa liste d'ami. 
+Les deux joueurs n'auront plus l'autre dans la liste d'amis.
 
 <font color="cyan">/ami </font> <font color="#EAB308">[liste | list] </font> 
-<font color="9CA3AF"> : Permet de voir tous les amis.
+: Permet de voir tous les amis.
 
 <font color="cyan"> /ami </font> <font color="#EAB308"> online </font> 
-<font color="9CA3AF"> : Permet de voir tous les amis connectés au serveur.</font>
+: Permet de voir tous les amis connectés au serveur.
 
 <font color="cyan">/ami </font>
 <font color="#EAB308"> [refuser | refuse] </font>
 <font color="84CC16">[joueur]</font>
-<font color="9CA3AF"> : Permet de refuser une invitation en ami d'un joueur. 
-Aucun des deux joueurs n'aura l'autre dans sa liste d'amis.</font>
+: Permet de refuser une invitation en ami d'un joueur. 
+Aucun des deux joueurs n'aura l'autre dans sa liste d'amis.
 
 <font color="cyan">/ami </font> <font color="#EAB308">[accepter | accept] </font> <font color="84CC16"> [joueur] </font>
 <font color="9CA3AF"> : Permet d'accepter l'invitation en ami d'un joueur. 

@@ -37,19 +37,23 @@ Voici les différentes grades que tu pourras retrouver sur Gaspézia :
 Voici un petit tableau récapitulant les avantages par grade :
 !!!
 
-| **Avantage**                                 |           Gaspézien            |         <font color=#22D3EE> VIP         |
-|:---------------------------------------------|:------------------------------:|:----------------------------------------:|
-| Accès aux host - parties privées en illimité |               ❌                |                    ✅                     |
-| Accès aux fonctionnalités en Bêta            |               ❌                |                    ✅                     |
-| Accès quand le serveur est complet           |               ❌                |                    ✅                     |
-| Couleur de GG personnalisé                   |               ❌                |                    ✅                     |
-| Choix de l'heure sur le lobby                |               ❌                |                    ✅                     |
-| Annonce d'arrivée sur un lobby               |               ❌                |                    ✅                     |
-| Couleur de pseudo                            |   <font color=#999999> gris    | <font color=#22D3EE> **personnalisable** |
-| Nombre de double saut au lobby               |               1                |     <font color=#22D3EE>**illimité**     |
-| Couleur des messages                         |   <font color=#999999> gris    |      <font color=#22D3EE> **blanc**      |
-| Préfixe affiché                              | <font color=#999999> Gaspézien |       <font color=#22D3EE> **VIP**       |
-| Nombre d'amis                                |             18(.5)             |     <font color=#22D3EE>**illimité**     |
+| **Avantage**                                 |           Gaspézien            |              <font color=#22D3EE> VIP              |
+|:---------------------------------------------|:------------------------------:|:--------------------------------------------------:|
+| Accès aux host - parties privées en illimité |               ❌                |                         ✅                          |
+| Accès aux fonctionnalités en Bêta            |               ❌                |                         ✅                          |
+| Accès quand le serveur est complet           |               ❌                |                         ✅                          |
+| Couleur de GG personnalisé                   |               ❌                |                         ✅                          |
+| Choix de l'heure sur le lobby                |               ❌                |                         ✅                          |
+| Annonce d'arrivée sur un lobby               |               ❌                |                         ✅                          |
+| Nombre de noisettes par mois                 |               0                | <font color=#22D3EE> 1000 (5000 pour le 1er achat) |
+| Bonus de récompenses*                        |               0%               |             <font color=#22D3EE> +100%             |
+| Couleur de pseudo                            |   <font color=#999999> gris    |      <font color=#22D3EE> **personnalisable**      |
+| Nombre de double saut au lobby               |               1                |          <font color=#22D3EE>**illimité**          |
+| Couleur des messages                         |   <font color=#999999> gris    |           <font color=#22D3EE> **blanc**           |
+| Préfixe affiché                              | <font color=#999999> Gaspézien |            <font color=#22D3EE> **VIP**            |
+| Nombre d'amis                                |             18(.5)             |          <font color=#22D3EE>**illimité**          |
+
+_*Quand un VIP entre dans une partie, les gains de tous les autres joueurs augmentent de +10% (cumulable jusqu'à +50%)._
 
 !!!
 Bientôt disponible sur notre boutique.
