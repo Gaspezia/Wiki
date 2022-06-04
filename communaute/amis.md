@@ -40,6 +40,7 @@ Les deux joueurs n'auront plus l'autre dans la liste d'amis.
 : Permet de refuser une invitation en ami d'un joueur. 
 Aucun des deux joueurs n'aura l'autre dans sa liste d'amis.
 
-<font color="cyan">/ami </font> <font color="#EAB308">[accepter | accept] </font> <font color="84CC16"> [joueur] </font>
-<font color="9CA3AF"> : Permet d'accepter l'invitation en ami d'un joueur. 
+<font color="cyan">/ami </font> <font color="#EAB308">[accepter | accept] </font> 
+<font color="84CC16"> [joueur] </font>
+: Permet d'accepter l'invitation en ami d'un joueur. 
 Les deux joueurs seront mutuellement dans la liste de l'autre.</font>
