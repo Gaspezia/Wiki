@@ -57,4 +57,4 @@ _*Quand un VIP entre dans une partie, les gains de tous les autres joueurs augme
 
 !!!
 Bientôt disponible sur notre boutique.
-
+!!!

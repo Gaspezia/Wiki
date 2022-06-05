@@ -59,5 +59,5 @@ Voici quelques autres commandes qui pourront t'être utile pour gérer ta partie
 
 !!!warning
 D'autres commandes sont disponibles en fonction des modes de jeux, pour toutes les retrouver nous t'invitons à directement 
-aller sur le spages des mini-jheux corrrespondant.
+aller sur les pages des mini-jeux corrrespondant.
 !!!
