@@ -10,25 +10,13 @@ Les Villageois doivent se ressaisir pour éradiquer ce nouveau fléau venu du fo
 
 Chez Gaspézia nous nous sommes inspirés du mode de jeu initial en y rajoutant des rôles inédits qui pourront renverser la partie.
 
-## Les rôles 
+## Les rôles
 
 > **<font color="green"> Villageois </font>** :
 > Il n'a pas de rôle particulier. Il vote lors de la période du jour. Il fait parti du village et doit éliminer tous les loup-garous.
-
-> **<font color="red"> Loup-Garou </font>** :
-> Il joue lors de la période de nuit, pour dévorer une proie. Il gagne s'il reste le dernier en vie.
-
+ 
 > **<font color="green">Cupidon </font>** :
 > Pendant le période de Saint-Valentin, il choisi deux personnes qui seront en couple. Il gagne si les deux amoureux sont les derniers en vie. Les amoureux peuvent parler entre eux avec le /couple.
-
-> **<font color="purple">Tueur en série </font>** :
-> Chaque nuit il peut tuer un joueur. Il gagne s'il est le dernier en vie. Il ne peut pas se faire dévorer par les loup-garou.
-
-> **<font color="purple">Chasseur de têtes </font>** :
-> Une cible aléatoire est désignée en début de partie. Il gagne si sa cible est tué par le village. Si ça cible décède d'une autre façon, il devient un simple villageois.
-
-> **<font color="purple"> Fou </font>** :
-> Son but est de se faire éliminer lors du vote du jour. Il gagne seulement s'il se fait éliminer de cette façon.
 
 > **<font color="green"> Médium </font>** : 
 > Chaque nuit, il peut parler anonymement avec les morts. Une fois par partie, il peut ressuciter un joueur. 
@@ -53,8 +41,20 @@ Chez Gaspézia nous nous sommes inspirés du mode de jeu initial en y rajoutant 
 > Chaque jour il peut choisir de mettre un joueur en prison pour la nuit suivante. Pendant la nuit, il peut parler en privé avec son prisonnier. 
 > Cette dernière sera immunisée à toutes autres actions et ne pourra donc pas mourir ni jouer son rôle. Une fois par partie, le géôlier peut tuer son prisonnier s'il le trouver suspect. 
 
+> **<font color="red"> Loup-Garou </font>** :
+> Il joue lors de la période de nuit, pour dévorer une proie. Il gagne s'il reste le dernier en vie.
+
 > **<font color="red"> Loup Voyant</font>** :
 > Chaque nuit, il peut sélectionner un joueur pour découvrir son rôle. S'il est le dernier en vie, il perd son pouvoir et deviendra un loup-garou ordinaire.
+
+> **<font color="purple">Tueur en série </font>** :
+> Chaque nuit il peut tuer un joueur. Il gagne s'il est le dernier en vie. Il ne peut pas se faire dévorer par les loup-garou.
+
+> **<font color="purple">Chasseur de têtes </font>** :
+> Une cible aléatoire est désignée en début de partie. Il gagne si sa cible est tué par le village. Si ça cible décède d'une autre façon, il devient un simple villageois.
+
+> **<font color="purple"> Fou </font>** :
+> Son but est de se faire éliminer lors du vote du jour. Il gagne seulement s'il se fait éliminer de cette façon.
 
 
 ## Déroulement de la partie
